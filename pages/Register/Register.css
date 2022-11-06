@@ -1,0 +1,17 @@
+.logo{
+  text-align: center;
+  padding-bottom: 12px;
+}
+div.container{
+  padding: 5px;
+  width: 30em;
+  position: relative;
+}
+.login{
+  margin: 0 auto;
+  padding-top: 12px;
+}
+#forgotPassword{
+  text-decoration: none;
+  padding: 0px;
+}
