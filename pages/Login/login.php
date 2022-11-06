@@ -35,12 +35,10 @@
               <a name="forgotPassword" id="forgotPassword" class="btn" href="#" role="button">
                 <span>¿Has olvidado tu contraseña?</span>
               </a>
-              
             </div>
             <div class="text-center">
               <button type="submit" class="btn" id="btn">Login</button>
             </div>
-            
           </form>
           <a name="creaCuenta" id="creaCuenta" class="btn position-absolute bottom-0 end-0" href="../../pages/Register/register.php" role="button">
             <span>¿No tienes una cuenta?</span>

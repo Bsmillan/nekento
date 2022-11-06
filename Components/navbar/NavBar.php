@@ -4,20 +4,21 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="../Components/navbar/NavBar.css">
-  <link rel="stylesheet" href="../Components/footer/footer.css">
-  <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="../../Components/navbar/NavBar.css">
+  <link rel="stylesheet" href="../../Components/footer/footer.css">
+  <link rel="stylesheet" href="../../pages/product/product.css">
+  <link rel="stylesheet" href="../../css/style.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css">
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
-  <link rel="shortcut icon" href="../assets/favicon.ico" type="image/x-icon">
-  <link rel="icon" href="../assets/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="../../assets/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="../../assets/favicon.ico" type="image/x-icon">
   
   <title>Nekento</title>
 </head>
 <body>
   <nav class="navbar navbar-expand-sm">
     <div class="container">
-      <a class="navbar-brand" href="../pages/index.php"><img src="../assets/logo3.png" class="img-fluid" alt="" width="250em"></a>
+      <a class="navbar-brand" href="../../pages/index/index.php"><img src="../../assets/logo3.png" class="img-fluid" alt="" width="250em"></a>
       <button class="navbar-toggler d-lg-none" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavId" aria-controls="collapsibleNavId" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -46,15 +47,15 @@
             </div>
           </li>
           <li class="nav-item">
-            <a id="btn" class="nav-link" href="../pages/Register/cart.php">Carrito</a>
+            <a id="btn" class="nav-link" href="../../pages/Register/cart.php">Carrito</a>
           </li>
         </ul>
         <ul class="navbar-nav me-2 mt-2 mt-lg-0">
           <li class="nav-item">
-            <a id="btn" class="nav-link" href="../pages/Register/register.php">Crea tu cuenta</a>
+            <a id="btn" class="nav-link" href="../../pages/Register/register.php">Crea tu cuenta</a>
           </li>
           <li class="nav-item">
-            <a id="btn" class="nav-link" href="../pages/Login/login.php">Inicia sesion</a>
+            <a id="btn" class="nav-link" href="../../pages/Login/login.php">Inicia sesion</a>
           </li>
         </ul>
       </div>
