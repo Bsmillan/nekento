@@ -18,7 +18,7 @@
     <div class="row">
       <div class="card" id="login">
         <div class="logo">
-          <a href="../index.php"><img class="rounded" src="../../assets/logo.png" alt="logo" width="150"></a>
+          <a href="../../pages/index/index.php"><img class="rounded" src="../../assets/logo.png" alt="logo" width="150"></a>
         </div>
         <div class="text-center pt-4">
           <h3>Inicia Sesion</h3>
@@ -50,6 +50,6 @@
 </body>
 <div class="text-center p-4 fixed-bottom" style="background-color: black;">
     © 2022 Copyright:
-    <a id="social-link" class="text-reset fw-bold" href="https://nekento.com/">Nekento</a>
+    <a id="social-link" class="text-reset fw-bold" href="../../pages/index/index.php">Nekento</a>
   </div>
 </html>

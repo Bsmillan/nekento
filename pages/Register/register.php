@@ -17,7 +17,7 @@
       <div class="row">
         <div class="card" id="register">
           <div class="logo">
-            <a href="../index.php"><img class="rounded" src="../../assets/logo.png" alt="logo" width="150"></a>
+            <a href="../../pages/index/index.php"><img class="rounded" src="../../assets/logo.png" alt="logo" width="150"></a>
           </div>
           <div class="text-center pt-4">
             <h3>Crea tu cuenta</h3>
@@ -73,7 +73,7 @@
               </div>
               <div class="form-check">
                 <input class="form-check-input" type="checkbox" id="" value="option1">
-                <a href=""><label class="form-check-label" for="">Terminos y condiciones</label></a>
+                <label class="form-check-label" for="">Terminos y condiciones</label>
               </div>
               <div class="text-center">
                 <button type="submit" class="btn" id="btn">Crear cuenta</button>
@@ -86,6 +86,6 @@
   </body>
   <div class="text-center p-4" style="background-color: black;">
     © 2022 Copyright:
-    <a id="social-link" class="text-reset fw-bold" href="https://nekento.com/">Nekento</a>
+    <a id="social-link" class="text-reset fw-bold" href="../../pages/index/index.php">Nekento</a>
   </div>
 </html>
