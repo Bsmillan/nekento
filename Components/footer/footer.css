@@ -1,3 +1,11 @@
 #footer{
-  background-color: blue;
+  background-color: rgb(0, 0, 0) !important;
+}
+
+#social-link{
+  text-decoration: none;
+  color: white !important;
+}
+#social-link:hover{
+  color: rgb(222,159,21) !important;
 }

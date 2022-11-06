@@ -1,7 +1,26 @@
-nav{
-  background-color: bisque;
-  position: inherit;
+nav.navbar{
+  background-color: black !important;
 }
-body{
-  background-color: rgb(184, 62, 62) !important;
+#h{
+  width: 28.5vw;
+  border-radius: 0%;
+}
+
+#c{
+  color: rgb(222,159,21) !important;
+  border-radius: 0%;
+  background-color:white !important;
+  border-left: none;
+}
+#c:hover{
+  color: white !important;
+  background-color:rgb(222,159,21) !important;
+}
+
+#btn{
+  color: rgb(222,159,21) !important;
+}
+
+#btn:hover{
+  color: rgb(255, 255, 255) !important;
 }
